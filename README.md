@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrjemini
-- 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ...web development
+- 👀 I’m Developer
+- 🌱 I’m currently completed...web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jeminijemini2002@gmail.com
 
